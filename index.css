@@ -7,7 +7,11 @@
 
 a {
     text-decoration: none;
-    color: #e6f1ff;
+    color: #F6FAFF;
+}
+
+a:visited {
+    color: inherit;
 }
 
 body {
@@ -78,10 +82,12 @@ body {
 
 .navbtn {
     float: right;
+    color: #F6FAFF;
 }
 
 .navbtn a {
     margin-left: 50px;
+    color: #F6FAFF;
 }
 
 .navbtn a:hover {
